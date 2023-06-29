@@ -1,7 +1,5 @@
 {
-  "flutter": {
-    "home": {
-      "data": "data 1"
-    }
+  "flutter/home": {
+     "data": "data 1"
   }
 }
