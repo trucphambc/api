@@ -1,3 +1,7 @@
 {
-  "hello":"hello"
+  "flutter": {
+    "home": {
+      "data": "data 1"
+    }
+  }
 }
