@@ -1,35 +1,69 @@
 {
   "home": {
-    "message": "Success",
-    "resultCode": 1,
-    "data": [
+  "message": "Success",
+  "resultCode": 1,
+  "data": [
+    {
+      "image": "assets/images/pizza.svg",
+      "name": "Pizza",
+      "foods": [
         {
-            "image": "assets/images/pizza.svg",
-            "name": "name assss",
-            "foods": [
-                {
-                    "image": "assets/images/sandwhich.png",
-                    "name":"name 1",
-                    "weight": "Weight 540 gr",
-                    "star": 5.0,
-                    "price": 7.99
-                },
-                {
-                    "image": "assets/images/sandwhich.png",
-                    "name":"name 2",
-                    "weight": "Weight 540 gr",
-                    "star": 2,
-                    "price": 5.6
-                },
-                {
-                    "image": "assets/images/sandwhich.png",
-                    "name":"name 3",
-                    "weight": "Weight 540 gr",
-                    "star": 2,
-                    "price": 7.99
-                }
-            ]
+          "image": "assets/images/pizza-1.png",
+          "name": "Primavera Pizza",
+          "weight": "Weight 540 gr",
+          "star": 5,
+          "price": 5.99
+        },
+        {
+          "image": "assets/images/pizza.png",
+          "name": "Cheese Pizza",
+          "weight": "Weight 540 gr",
+          "star": 2,
+          "price": 6.99
+        },
+        {
+          "image": "assets/images/salad.png",
+          "name": "Healthy Salad",
+          "weight": "Weight 540 gr",
+          "star": 5,
+          "price": 7.99
+        },
+        {
+          "image": "assets/images/sandwhich.png",
+          "name": "Grilled Sandwhich",
+          "weight": "Weight 540 gr",
+          "star": 5,
+          "price": 8.99
+        },
+        {
+          "image": "assets/images/chowmin.png",
+          "name": "Cheese Chowmin",
+          "weight": "Weight 540 gr",
+          "star": 5,
+          "price": 9.99
         }
-    ]
+      ]
+    },
+    {
+      "image": "assets/images/sea-food.svg",
+      "name": "Seafood",
+      "foods": []
+    },
+    {
+      "image": "assets/images/coke.svg",
+      "name": "Soft Drinks",
+      "foods": []
+    },
+    {
+      "image": "assets/images/pizza.svg",
+      "name": "Pizza",
+      "foods": []
+    },
+    {
+      "image": "assets/images/pizza.svg",
+      "name": "Pizza",
+      "foods": []
+    }
+  ]
 }
 }
